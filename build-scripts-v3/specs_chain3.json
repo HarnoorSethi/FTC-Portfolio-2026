@@ -1,0 +1,1 @@
+[{"name": "chain_p30", "az": 35, "el": 30, "pad": 0.3, "boundsOf": ["chain"], "focus": ["chain"], "ghost": 0.12}, {"name": "chain_p22", "az": 35, "el": 30, "pad": 0.22, "boundsOf": ["chain"], "focus": ["chain"], "ghost": 0.12}, {"name": "chain_p30_top", "az": 0, "el": 89, "pad": 0.3, "boundsOf": ["chain"], "focus": ["chain"], "ghost": 0.12}]

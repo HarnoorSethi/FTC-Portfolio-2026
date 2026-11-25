@@ -1,0 +1,1 @@
+[{"name": "chain_t_p60", "az": 35, "el": 30, "pad": 0.6, "boundsOf": ["turret"], "focus": ["chain"], "ghost": 0.12}, {"name": "chain_t_p45", "az": 35, "el": 30, "pad": 0.45, "boundsOf": ["turret"], "focus": ["chain"], "ghost": 0.12}, {"name": "chain_t_p60_top", "az": 0, "el": 89, "pad": 0.6, "boundsOf": ["turret"], "focus": ["chain"], "ghost": 0.12}]

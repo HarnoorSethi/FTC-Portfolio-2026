@@ -1,0 +1,1 @@
+[{"name": "igus_iso2", "az": 30, "el": 30, "pad": 0.78, "ghost": 0.05, "boundsOf": ["turret"], "focus": ["chain"]}, {"name": "igus_iso3", "az": -35, "el": 32, "pad": 0.8, "ghost": 0.05, "boundsOf": ["turret"], "focus": ["chain"]}]
